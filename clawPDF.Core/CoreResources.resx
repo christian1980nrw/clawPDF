@@ -177,7 +177,7 @@
     %rotate 45 sub exch setscreen
     /len h dup mul w dup mul add sqrt def
     /x 400 def
-    /y 80 def
+    /y 40 def
     newpath
     fontname findfont fontsize scalefont ISOEncode setfont
 	[STAMPOUTLINEFONTTHICKNESS] setlinewidth
