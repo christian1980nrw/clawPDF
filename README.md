@@ -1,4 +1,4 @@
-# clawPDF // PDFCreator 2.3 fork
+# clawPDF // PDFCreator 2.3 fork (this fork comes with Ghostscript 9.55.0 and Windows Mapi-Emailfix)
 
 Yet another PDF Printer? Yes! This PDF Printer has the intention to be completely open source.<br><br>
 Open Source virtual PDF printer for Windows 7 / 8 / 10 / 2008 / R2 / 2016 / 2019<br>
