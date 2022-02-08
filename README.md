@@ -6,7 +6,7 @@ Print to PDF, PDF/A, PDF/X, PNG, JPEG, TIF and text
 
 # Download
 
-https://github.com/clawsoftware/clawPDF/releases/download/0.8.4/clawPDF_0.8.4_setup.msi
+please compile it yourself (Visual Studio 2022)
 
 # Tested under
 
