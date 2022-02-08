@@ -818,3 +818,4 @@ namespace clawSoft.clawPDF.Mail
 
     #endregion Public RecipientCollection Class
 }
+
